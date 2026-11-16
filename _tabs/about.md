@@ -1,4 +1,8 @@
-# About
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
 
 I'm interested in understanding how cyber attacks happen, what they leave behind, and how to investigate them.
 
