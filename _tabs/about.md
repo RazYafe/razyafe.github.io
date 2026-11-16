@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
 I'm interested in understanding how cyber attacks happen, what they leave behind, and how to investigate them.
 
 My main focus is Digital Forensics and Incident Response (DFIR), particularly network forensics, endpoint investigations, malware analysis, and threat detection.
